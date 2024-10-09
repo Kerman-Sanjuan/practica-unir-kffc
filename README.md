@@ -79,8 +79,6 @@ En esta actividad, cada miembro del grupo se familiarizará con la creación de 
 1. **Administrador del Repositorio**: Un miembro del grupo actúa como administrador y es responsable de inicializar y gestionar el repositorio principal en GitHub.
 2. **Desarrolladores**: El resto de los participantes actúan como desarrolladores, forkean el repositorio principal y trabajan en diferentes funcionalidades de forma independiente.
 
-
-python3 main.py <filename> <dup>
   filename: **ruta** al fichero que contiene la lista de palabras, una por línea
   dup: **yes|no**, yes para eliminar palabras duplicadas, no para mantener la lista
 
