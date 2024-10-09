@@ -8,12 +8,9 @@ El propósito de esta actividad es aprender a utilizar la funcionalidad de **pul
 
 En esta actividad, cada miembro del grupo se familiarizará con la creación de **pull requests**, la gestión de ramas y la colaboración en un entorno compartido utilizando Git y GitHub.
 
-### Estructura del Ejercicio
 
-1. **Administrador del Repositorio**: Un miembro del grupo actúa como administrador y es responsable de inicializar y gestionar el repositorio principal en GitHub.
-2. **Desarrolladores**: El resto de los participantes actúan como desarrolladores, forkean el repositorio principal y trabajan en diferentes funcionalidades de forma independiente.
 
-### Requisitos Previos
+  ### Requisitos Previos
 
 - Todos los participantes deben tener una cuenta en GitHub.
 - Git debe estar instalado en las máquinas locales de cada miembro.
@@ -75,3 +72,23 @@ En esta actividad, cada miembro del grupo se familiarizará con la creación de 
 | Guerrero Orellana, Catalina Nieves | @cata-unir            | Desarrollador                 |
 | Velayos Vega, Felipe Antonio | @fvelayosricoh            | Desarrollador                 |
 | Lopez, Facundo Javier | @faqlive            | Desarrollador                 |
+=======
+
+### Estructura del Ejercicio
+
+1. **Administrador del Repositorio**: Un miembro del grupo actúa como administrador y es responsable de inicializar y gestionar el repositorio principal en GitHub.
+2. **Desarrolladores**: El resto de los participantes actúan como desarrolladores, forkean el repositorio principal y trabajan en diferentes funcionalidades de forma independiente.
+
+
+python3 main.py <filename> <dup>
+  filename: **ruta** al fichero que contiene la lista de palabras, una por línea
+  dup: **yes|no**, yes para eliminar palabras duplicadas, no para mantener la lista
+
+  ## Trabajo en equipo
+Se ha tenido en cuenta el documento mudevops07_act1.docx (se añade en esta rama)
+Felipe: Se ha añadido otro comentario más
+                    ## Aporte al Readme (Cata)
+* Coordinamos una meeting y trabajamos en equipo.
+
+## Aporte al Readme (Cata)
+* Coordinamos una meeting y trabajamos en equipo.
