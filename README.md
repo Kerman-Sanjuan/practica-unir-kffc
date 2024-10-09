@@ -12,6 +12,11 @@ python3 main.py <filename> <dup>
   filename: **ruta** al fichero que contiene la lista de palabras, una por línea
   dup: **yes|no**, yes para eliminar palabras duplicadas, no para mantener la lista
 
-## Trabajo en equipo
+  ## Trabajo en equipo
 Se ha tenido en cuenta el documento mudevops07_act1.docx (se añade en esta rama)
 Felipe: Se ha añadido otro comentario más
+                    ## Aporte al Readme (Cata)
+* Coordinamos una meeting y trabajamos en equipo.
+
+## Aporte al Readme (Cata)
+* Coordinamos una meeting y trabajamos en equipo.
